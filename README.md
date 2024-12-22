@@ -3,10 +3,3 @@
 
 # 게임 다운로드
 [링크](https://drive.google.com/file/d/1gxNLJnflW_PRq9yoUS5C4isPW8aFBILN/view?usp=sharing)
-
-# 수상 및 전시
-2023 KWC 금상
-
-2023 신구대학교 전국 중·고교생 게임 공모전 대상
-
-2024 Play X4 전시
